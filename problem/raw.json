@@ -161,6 +161,26 @@
         "Trust collapse"
       ],
       "notes": "Project owner response; useful for mapping the gap between AI capability and public understanding."
+    },
+    {
+      "id": "rr_009",
+      "platform": "manual_entry",
+      "source_type": "short_response",
+      "source_label": "User-submitted response",
+      "raw_text": "Finances",
+      "speaker": "respondent",
+      "handle": null,
+      "timestamp_text": null,
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Finances",
+      "suggested_subthemes": [
+        "Financial pressure",
+        "Cost of living",
+        "Debt stress",
+        "Income instability"
+      ],
+      "notes": "Brief raw response. Treat as an emerging financial pressure issue and ask follow-up questions before making stronger conclusions."
     }
   ]
 }
