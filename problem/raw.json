@@ -1,0 +1,166 @@
+{
+  "project": "Colorful Conversations",
+  "map_url": "https://kumu.io/srmrox/colorful-conversations#problems",
+  "file_type": "raw_responses",
+  "privacy_note": "This file contains raw or near-raw feedback for internal analysis only. Do not publish names, handles, source links, or personally identifying details without consent.",
+  "responses": [
+    {
+      "id": "rr_001",
+      "platform": "manual_entry",
+      "source_type": "theme_note",
+      "source_label": "Issue pointed out so far",
+      "raw_text": "Everyone is aware of rights but not responsibilities, leading to self centred individuals.",
+      "speaker": "unknown",
+      "handle": null,
+      "timestamp_text": null,
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Rights Without Responsibilities",
+      "suggested_subthemes": [
+        "Self-centred behaviour",
+        "Civic responsibility",
+        "Social trust"
+      ],
+      "notes": "Treat as a user-submitted issue/theme rather than a direct quoted public response."
+    },
+    {
+      "id": "rr_002",
+      "platform": "manual_entry",
+      "source_type": "theme_note",
+      "source_label": "Issue pointed out so far",
+      "raw_text": "lack of skills to adapt to the future",
+      "speaker": "unknown",
+      "handle": null,
+      "timestamp_text": null,
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Lack of Future-Ready Skills",
+      "suggested_subthemes": [
+        "Adaptability",
+        "Digital literacy",
+        "Reskilling",
+        "Youth preparedness"
+      ],
+      "notes": "Treat as a user-submitted issue/theme rather than a direct quoted public response."
+    },
+    {
+      "id": "rr_003",
+      "platform": "reddit",
+      "source_type": "comment",
+      "source_label": "Reddit thread response",
+      "raw_text": "I am sad due to cameras And the invasion of privacy from it , cameras are great, but it should have remained something very expensive and highly regulated and licensed\n\nNow every one has a smartphone and starts recording",
+      "speaker": "respondent",
+      "handle": "Key_Midnight1477",
+      "timestamp_text": "1h ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Loss of Privacy in a Camera-Saturated Society",
+      "suggested_subthemes": [
+        "Smartphone recording",
+        "Consent",
+        "Surveillance anxiety",
+        "Regulation of recording"
+      ],
+      "notes": "Raw Reddit comment. Do not publish handle unless consent is obtained. Can be summarized anonymously."
+    },
+    {
+      "id": "rr_004",
+      "platform": "reddit",
+      "source_type": "reply_by_project_owner",
+      "source_label": "Reddit thread reply",
+      "raw_text": "Yup, I agree, that's a real problem. Especially with AI, it's easier than ever to manipulate those photos into whatever the user wants. No consent needed.",
+      "speaker": "project_owner",
+      "handle": "srmrox",
+      "timestamp_text": "54m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
+      "suggested_subthemes": [
+        "Deepfakes",
+        "Consent",
+        "Image misuse",
+        "Reputation harm"
+      ],
+      "notes": "Project owner response; useful for context, but not external feedback."
+    },
+    {
+      "id": "rr_005",
+      "platform": "reddit",
+      "source_type": "comment",
+      "source_label": "Reddit thread response",
+      "raw_text": "To be honest i think ai is good , i want ai to advance to such a high level that we will never be able to differentiate between ai photo or video and original photo and video.\n\nIn this case , any invasion of privacy can be brushed of as ai",
+      "speaker": "respondent",
+      "handle": "Key_Midnight1477",
+      "timestamp_text": "52m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
+      "suggested_subthemes": [
+        "Plausible deniability",
+        "Evidence uncertainty",
+        "Privacy harm",
+        "Synthetic media"
+      ],
+      "notes": "Important tension: AI may both increase synthetic-media risk and create plausible deniability for privacy violations."
+    },
+    {
+      "id": "rr_006",
+      "platform": "reddit",
+      "source_type": "reply_by_project_owner",
+      "source_label": "Reddit thread reply",
+      "raw_text": "That time is not too far away.\n\nHowever, the sentiment is sometimes more impactful than the reality, and any AI generated image / video can still affect someone's mental state or impression about someone. Humans are irrational in the worst way possible.",
+      "speaker": "project_owner",
+      "handle": "srmrox",
+      "timestamp_text": "48m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
+      "suggested_subthemes": [
+        "Reputation harm",
+        "Mental distress",
+        "Public understanding of AI"
+      ],
+      "notes": "Project owner response; useful for reasoning around harm and public perception."
+    },
+    {
+      "id": "rr_007",
+      "platform": "reddit",
+      "source_type": "comment",
+      "source_label": "Reddit thread response",
+      "raw_text": "ai is less likely to do so affect someone mental state i believe, if something is fake , it is fake , why to worry ?\n\nAlso if something is original and can counted as fake due to ai , then also why to worry ?\n\nIf a person is worried that ai is gonna cause them harm , then they should already be extremely worried before ai. Anyone could invade their privacy and record them without knowing.",
+      "speaker": "respondent",
+      "handle": "Key_Midnight1477",
+      "timestamp_text": "44m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
+      "suggested_subthemes": [
+        "Plausible deniability",
+        "Privacy harm",
+        "Evidence uncertainty",
+        "Surveillance anxiety"
+      ],
+      "notes": "Respondent argues that privacy risk predates AI and that AI may reduce concern by making media deniable."
+    },
+    {
+      "id": "rr_008",
+      "platform": "reddit",
+      "source_type": "reply_by_project_owner",
+      "source_label": "Reddit thread reply",
+      "raw_text": "I understand what you're saying; however, the double-edged sword of AI is in the matter that it \"mainstreams\" the ability to make modifications to photos / videos.\n\nThe level of effort of editing photos and videos being hard was similar to having expensive cameras.\n\nUltimately, in the age we're in, AI may lead towards a place where no one trust ANY photo / video. However, while AI is almost at that stage in terms of capability, people are not at that stage of understanding (yet).\n\nWith all that said, I have noted your point and will add it to the graph I'm making.",
+      "speaker": "project_owner",
+      "handle": "srmrox",
+      "timestamp_text": "3m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Public Understanding of AI",
+      "suggested_subthemes": [
+        "AI capability",
+        "Evidence uncertainty",
+        "Media literacy",
+        "Trust collapse"
+      ],
+      "notes": "Project owner response; useful for mapping the gap between AI capability and public understanding."
+    }
+  ]
+}
