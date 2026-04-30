@@ -16,11 +16,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "Rights Without Responsibilities",
-      "suggested_subthemes": [
-        "Self-centred behaviour",
-        "Civic responsibility",
-        "Social trust"
-      ],
+      "suggested_subthemes": ["Self-centred behaviour", "Civic responsibility", "Social trust"],
       "notes": "Treat as a user-submitted issue/theme rather than a direct quoted public response."
     },
     {
@@ -35,12 +31,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "Lack of Future-Ready Skills",
-      "suggested_subthemes": [
-        "Adaptability",
-        "Digital literacy",
-        "Reskilling",
-        "Youth preparedness"
-      ],
+      "suggested_subthemes": ["Adaptability", "Digital literacy", "Reskilling", "Youth preparedness"],
       "notes": "Treat as a user-submitted issue/theme rather than a direct quoted public response."
     },
     {
@@ -55,12 +46,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "Loss of Privacy in a Camera-Saturated Society",
-      "suggested_subthemes": [
-        "Smartphone recording",
-        "Consent",
-        "Surveillance anxiety",
-        "Regulation of recording"
-      ],
+      "suggested_subthemes": ["Smartphone recording", "Consent", "Surveillance anxiety", "Regulation of recording"],
       "notes": "Raw Reddit comment. Do not publish handle unless consent is obtained. Can be summarized anonymously."
     },
     {
@@ -75,12 +61,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
-      "suggested_subthemes": [
-        "Deepfakes",
-        "Consent",
-        "Image misuse",
-        "Reputation harm"
-      ],
+      "suggested_subthemes": ["Deepfakes", "Consent", "Image misuse", "Reputation harm"],
       "notes": "Project owner response; useful for context, but not external feedback."
     },
     {
@@ -95,12 +76,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
-      "suggested_subthemes": [
-        "Plausible deniability",
-        "Evidence uncertainty",
-        "Privacy harm",
-        "Synthetic media"
-      ],
+      "suggested_subthemes": ["Plausible deniability", "Evidence uncertainty", "Privacy harm", "Synthetic media"],
       "notes": "Important tension: AI may both increase synthetic-media risk and create plausible deniability for privacy violations."
     },
     {
@@ -115,11 +91,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
-      "suggested_subthemes": [
-        "Reputation harm",
-        "Mental distress",
-        "Public understanding of AI"
-      ],
+      "suggested_subthemes": ["Reputation harm", "Mental distress", "Public understanding of AI"],
       "notes": "Project owner response; useful for reasoning around harm and public perception."
     },
     {
@@ -134,12 +106,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "AI, Synthetic Media, and Trust Collapse",
-      "suggested_subthemes": [
-        "Plausible deniability",
-        "Privacy harm",
-        "Evidence uncertainty",
-        "Surveillance anxiety"
-      ],
+      "suggested_subthemes": ["Plausible deniability", "Privacy harm", "Evidence uncertainty", "Surveillance anxiety"],
       "notes": "Respondent argues that privacy risk predates AI and that AI may reduce concern by making media deniable."
     },
     {
@@ -154,12 +121,7 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "Public Understanding of AI",
-      "suggested_subthemes": [
-        "AI capability",
-        "Evidence uncertainty",
-        "Media literacy",
-        "Trust collapse"
-      ],
+      "suggested_subthemes": ["AI capability", "Evidence uncertainty", "Media literacy", "Trust collapse"],
       "notes": "Project owner response; useful for mapping the gap between AI capability and public understanding."
     },
     {
@@ -174,13 +136,68 @@
       "privacy_level": "internal",
       "publishable": false,
       "suggested_theme": "Finances",
-      "suggested_subthemes": [
-        "Financial pressure",
-        "Cost of living",
-        "Debt stress",
-        "Income instability"
-      ],
+      "suggested_subthemes": ["Financial pressure", "Cost of living", "Debt stress", "Income instability"],
       "notes": "Brief raw response. Treat as an emerging financial pressure issue and ask follow-up questions before making stronger conclusions."
+    },
+    {
+      "id": "rr_010",
+      "platform": "reddit",
+      "source_type": "comment",
+      "source_label": "Reddit finance thread response",
+      "raw_text": "The google form was really very very threadbare. Finances are my problem and I think this problem is being faced by millions in Pakistan and globally.",
+      "speaker": "respondent",
+      "handle": "ofm1",
+      "timestamp_text": "42m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Finances",
+      "suggested_subthemes": ["Financial pressure", "Pakistan", "Global financial pressure", "Cost of living"],
+      "notes": "Raw Reddit comment. Do not publish handle unless consent is obtained. Can be summarized anonymously. Also includes feedback that the Google Form felt threadbare/open-ended."
+    },
+    {
+      "id": "rr_011",
+      "platform": "reddit",
+      "source_type": "reply_by_project_owner",
+      "source_label": "Reddit finance thread reply",
+      "raw_text": "Kept it intentionally \"open-ended\".\n\nCompletely understand the problem of finances. It's a universal problem as well. Some people have reported the root cause for it too.",
+      "speaker": "project_owner",
+      "handle": "srmrox",
+      "timestamp_text": "10m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Finances",
+      "suggested_subthemes": ["Open-ended feedback collection", "Universal financial pressure", "Root causes of financial pressure"],
+      "notes": "Project owner response; useful for context, but not external feedback."
+    },
+    {
+      "id": "rr_012",
+      "platform": "reddit",
+      "source_type": "comment",
+      "source_label": "Reddit finance thread response",
+      "raw_text": "Understood. To progress financially, we need to put health and education at top priority for the entire population. Only then would we be able to address this issue to a great extent. Until this happens, the country would remain poor.",
+      "speaker": "respondent",
+      "handle": "ofm1",
+      "timestamp_text": "5m ago",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Health and Education as Financial Enablers",
+      "suggested_subthemes": ["Health", "Education", "Poverty reduction", "Population-level wellbeing", "National financial progress"],
+      "notes": "Respondent identifies health and education as root enablers of financial progress and poverty reduction. Do not publish handle unless consent is obtained."
+    },
+    {
+      "id": "rr_013",
+      "platform": "reddit",
+      "source_type": "reply_by_project_owner",
+      "source_label": "Reddit finance thread reply",
+      "raw_text": "Yup, physical and mental health, and along with theoretical / academic education, also practical experience and useable skills.",
+      "speaker": "project_owner",
+      "handle": "srmrox",
+      "timestamp_text": "Now",
+      "privacy_level": "internal",
+      "publishable": false,
+      "suggested_theme": "Health, Education, and Practical Skills",
+      "suggested_subthemes": ["Physical health", "Mental health", "Academic education", "Practical experience", "Usable skills"],
+      "notes": "Project owner response; useful for mapping health, education, and practical skills as enablers of financial progress."
     }
   ]
 }
