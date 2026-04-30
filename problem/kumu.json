@@ -4,514 +4,385 @@
       "label": "Rights Without Responsibilities",
       "type": "Theme",
       "cluster": "Civic Behaviour and Responsibility",
-      "description": "People are increasingly aware of their personal rights, but this is not always balanced with a sense of responsibility toward others, society, institutions, or the public good. This can lead to more self-centred behaviour, weaker civic discipline, and lower concern for how individual actions affect the wider community.",
-      "public_note": "A concern raised so far is that people may know their rights but not their responsibilities. Rights are important, but when they are separated from responsibility, society can become more individualistic and less cooperative. This may weaken trust, respect, and shared discipline in public life."
+      "description": "People are increasingly aware of their personal rights, but this is not always balanced with a sense of responsibility toward others, society, institutions, or the public good.",
+      "public_note": "A concern raised so far is that people may know their rights but not their responsibilities. Rights are important, but when separated from responsibility, society can become more individualistic and less cooperative.",
+      "status": "published"
     },
     {
       "label": "Self-Centred Behaviour",
       "type": "Consequence",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "A pattern where people focus mainly on their own rights, needs, or convenience, with less concern for the effect on others.",
-      "public_note": "Self-centred behaviour can grow when rights are separated from responsibility. This affects public behaviour, social trust, and how people treat shared spaces, rules, and other people."
+      "public_note": "Self-centred behaviour can grow when rights are separated from responsibility. This affects public behaviour, social trust, and how people treat shared spaces, rules, and other people.",
+      "status": "published"
     },
     {
       "label": "Civic Responsibility",
       "type": "Concept",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "A sense of duty toward others, shared spaces, public norms, institutions, and community wellbeing.",
-      "public_note": "Civic responsibility balances individual rights with concern for others. It encourages people to think beyond personal benefit and consider how their actions affect the wider community."
+      "public_note": "Civic responsibility balances individual rights with concern for others and encourages people to consider how their actions affect the wider community.",
+      "status": "published"
     },
     {
       "label": "Social Trust",
       "type": "Consequence",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "The level of trust people have in each other, in shared norms, and in the basic fairness of social behaviour.",
-      "public_note": "Social trust weakens when people feel others are acting only for themselves. It strengthens when people see responsibility, fairness, and respect in everyday behaviour."
+      "public_note": "Social trust weakens when people feel others are acting only for themselves. It strengthens when people see responsibility, fairness, and respect in everyday behaviour.",
+      "status": "published"
     },
     {
       "label": "Community Discipline",
       "type": "Concept",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "Shared discipline in public life, including respect for rules, public spaces, and the needs of others.",
-      "public_note": "Community discipline depends on people accepting that public life requires restraint, respect, and responsibility."
+      "public_note": "Community discipline depends on people accepting that public life requires restraint, respect, and responsibility.",
+      "status": "published"
     },
     {
       "label": "Individualism",
       "type": "Concept",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "A stronger focus on individual choice, personal rights, and self-interest.",
-      "public_note": "Individualism can support personal freedom, but when disconnected from responsibility, it may weaken cooperation and social trust."
+      "public_note": "Individualism can support personal freedom, but when disconnected from responsibility, it may weaken cooperation and social trust.",
+      "status": "published"
     },
     {
       "label": "Public Behaviour",
       "type": "Concept",
       "cluster": "Civic Behaviour and Responsibility",
       "description": "How people act in shared spaces, institutions, communities, and social settings.",
-      "public_note": "Public behaviour reflects whether people balance their own needs with respect for others."
+      "public_note": "Public behaviour reflects whether people balance their own needs with respect for others.",
+      "status": "published"
     },
     {
       "label": "Lack of Future-Ready Skills",
       "type": "Theme",
       "cluster": "Future Readiness and Skills",
-      "description": "People may not have the skills needed to adapt to rapid changes in work, technology, society, and the economy. This includes digital literacy, critical thinking, adaptability, communication, practical problem-solving, and the ability to keep learning.",
-      "public_note": "Another issue raised is that many people are not being prepared for the future. As technology, jobs, and society change quickly, people need skills that help them adapt. Without these skills, they may face unemployment, insecurity, confusion, or dependence on outdated ways of learning and working."
+      "description": "People may not have the skills needed to adapt to rapid changes in work, technology, society, and the economy.",
+      "public_note": "Many people are not being prepared for the future. As technology, jobs, and society change quickly, people need skills that help them adapt.",
+      "status": "published"
     },
     {
       "label": "Digital Literacy",
       "type": "Skill",
       "cluster": "Future Readiness and Skills",
       "description": "The ability to use, understand, evaluate, and safely navigate digital tools and digital information.",
-      "public_note": "Digital literacy is no longer optional. It affects work, education, safety, privacy, financial decisions, and the ability to understand AI-driven change."
+      "public_note": "Digital literacy affects work, education, safety, privacy, financial decisions, and the ability to understand AI-driven change.",
+      "status": "published"
     },
     {
       "label": "AI Readiness",
       "type": "Skill",
       "cluster": "Future Readiness and Skills",
       "description": "The ability to understand, use, adapt to, and critically evaluate AI tools and their impact.",
-      "public_note": "AI readiness is becoming part of future readiness. People need to understand how AI changes work, information, privacy, and trust."
+      "public_note": "AI readiness is becoming part of future readiness. People need to understand how AI changes work, information, privacy, and trust.",
+      "status": "published"
     },
     {
       "label": "Adaptability",
       "type": "Skill",
       "cluster": "Future Readiness and Skills",
       "description": "The ability to adjust to changing work, technology, social expectations, and economic conditions.",
-      "public_note": "Adaptability helps people respond to change instead of being overwhelmed by it. It is one of the key skills needed for the future."
+      "public_note": "Adaptability helps people respond to change instead of being overwhelmed by it.",
+      "status": "published"
     },
     {
       "label": "Education System",
       "type": "Cause",
       "cluster": "Future Readiness and Skills",
       "description": "The formal and informal systems through which people are educated, trained, assessed, and prepared for life and work.",
-      "public_note": "The education system shapes whether people develop future-ready skills or remain dependent on outdated forms of learning."
+      "public_note": "The education system shapes whether people develop future-ready skills or remain dependent on outdated forms of learning.",
+      "status": "published"
     },
     {
       "label": "Employment Insecurity",
       "type": "Consequence",
       "cluster": "Future Readiness and Skills",
       "description": "Uncertainty around stable income, employability, and the ability to remain relevant in a changing job market.",
-      "public_note": "When people lack future-ready skills, they may feel insecure about employment. Rapid technological and economic change makes adaptability, digital literacy, and continuous learning increasingly important."
+      "public_note": "When people lack future-ready skills, they may feel insecure about employment.",
+      "status": "published"
     },
     {
       "label": "Reskilling",
       "type": "Solution",
       "cluster": "Future Readiness and Skills",
       "description": "Learning new skills to remain relevant in changing job markets, industries, and social conditions.",
-      "public_note": "Reskilling can help people adapt to technological and economic change instead of being left behind."
+      "public_note": "Reskilling can help people adapt to technological and economic change instead of being left behind.",
+      "status": "published"
     },
     {
       "label": "Youth Preparedness",
       "type": "Concept",
       "cluster": "Future Readiness and Skills",
       "description": "The extent to which young people are prepared for future work, social change, technology, and adult responsibilities.",
-      "public_note": "Youth preparedness depends on whether young people are taught practical, adaptive, digital, and social skills."
+      "public_note": "Youth preparedness depends on whether young people are taught practical, adaptive, digital, and social skills.",
+      "status": "published"
     },
     {
       "label": "Lifelong Learning",
       "type": "Solution",
       "cluster": "Future Readiness and Skills",
       "description": "The habit and system of continuously learning throughout life as conditions change.",
-      "public_note": "Lifelong learning helps people remain adaptable in a world where skills become outdated quickly."
+      "public_note": "Lifelong learning helps people remain adaptable in a world where skills become outdated quickly.",
+      "status": "published"
+    },
+    {
+      "label": "Finances",
+      "type": "Theme",
+      "cluster": "Financial Pressure and Stability",
+      "description": "A response identified finances as a personal problem area, suggesting concern around money, income, expenses, debt, or financial stability.",
+      "public_note": "One emerging issue is finances. The response is brief, so the exact concern is still unclear, but it points toward financial pressure as an area to explore further.",
+      "mention_count": 1,
+      "severity": "Unknown",
+      "status": "published"
+    },
+    {
+      "label": "Financial Pressure",
+      "type": "Theme",
+      "cluster": "Financial Pressure and Stability",
+      "description": "Pressure caused by income, expenses, debt, savings, uncertainty, or inability to meet financial needs.",
+      "public_note": "Financial pressure can affect daily choices, stress levels, family life, health, education, and future planning.",
+      "mention_count": 1,
+      "severity": "Unknown",
+      "status": "published"
+    },
+    {
+      "label": "Cost of Living",
+      "type": "Sub-theme",
+      "cluster": "Financial Pressure and Stability",
+      "description": "The pressure created when everyday expenses become difficult to afford.",
+      "public_note": "Cost of living may include rent, food, transport, utilities, education, healthcare, and other daily expenses.",
+      "mention_count": 0,
+      "severity": "Unknown",
+      "status": "published"
+    },
+    {
+      "label": "Debt Stress",
+      "type": "Consequence",
+      "cluster": "Financial Pressure and Stability",
+      "description": "Stress created by borrowing, repayments, unpaid obligations, or fear of falling behind financially.",
+      "public_note": "Debt stress can affect mental wellbeing, family decisions, and the ability to plan for the future.",
+      "mention_count": 0,
+      "severity": "Unknown",
+      "status": "published"
     },
     {
       "label": "Loss of Privacy in a Camera-Saturated Society",
       "type": "Theme",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "Smartphones and cheap cameras have made it easy for anyone to record others without consent. This creates anxiety around privacy, surveillance, public dignity, and the misuse of images or videos.",
-      "public_note": "One person raised concern about the spread of cameras and smartphones. Cameras can be useful, but when everyone can record anyone at any time, privacy becomes fragile. The issue is not only government or corporate surveillance. It is also everyday recording by ordinary people without consent."
+      "description": "Smartphones and cheap cameras have made it easy for anyone to record others without consent.",
+      "public_note": "Cameras can be useful, but when everyone can record anyone at any time, privacy becomes fragile. The issue is not only government or corporate surveillance; it is also everyday recording by ordinary people without consent.",
+      "status": "published"
     },
     {
       "label": "Smartphone Recording",
       "type": "Cause",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Smartphones have made cameras widely available, allowing people to record others instantly and often without consent.",
-      "public_note": "Smartphones have made recording normal and effortless. This convenience has benefits, but it also means people can be photographed, filmed, and shared without their permission. The social norms around consent have not fully caught up with the technology."
+      "public_note": "Smartphones have made recording normal and effortless. The social norms around consent have not fully caught up with the technology.",
+      "status": "published"
     },
     {
       "label": "Consent",
       "type": "Concept",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "Consent refers to whether people have agreed to being recorded, photographed, shared, or represented publicly.",
-      "public_note": "Consent is central to the privacy issue. The problem is not only that cameras exist, but that people may be recorded or shared without permission. A society with widespread recording needs stronger norms around when recording is acceptable and when it violates dignity."
+      "description": "Whether people have agreed to being recorded, photographed, shared, or represented publicly.",
+      "public_note": "Consent is central to the privacy issue. A society with widespread recording needs stronger norms around when recording is acceptable and when it violates dignity.",
+      "status": "published"
     },
     {
       "label": "Surveillance Anxiety",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "The feeling of being watched, exposed, or unsafe because recording is always possible.",
-      "public_note": "When cameras are everywhere, people may feel that they are constantly being watched. This can create anxiety, self-consciousness, and a reduced sense of freedom in public and private spaces."
+      "public_note": "When cameras are everywhere, people may feel constantly watched, creating anxiety and reducing freedom in public and private spaces.",
+      "status": "published"
     },
     {
       "label": "Public Privacy",
       "type": "Concept",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "The expectation that people can retain dignity and reasonable privacy even in public or semi-public spaces.",
-      "public_note": "Public privacy is becoming harder to protect as recording tools become more common."
+      "public_note": "Public privacy is becoming harder to protect as recording tools become more common.",
+      "status": "published"
     },
     {
       "label": "Image Misuse",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "The misuse of a person’s image through unwanted sharing, manipulation, ridicule, harassment, or exploitation.",
-      "public_note": "Image misuse can harm dignity, reputation, and mental wellbeing, especially when people are recorded without consent."
+      "description": "The misuse of a person's image through unwanted sharing, manipulation, ridicule, harassment, or exploitation.",
+      "public_note": "Image misuse can harm dignity, reputation, and mental wellbeing, especially when people are recorded without consent.",
+      "status": "published"
     },
     {
       "label": "Digital Dignity",
       "type": "Concept",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "The right to be treated with dignity in digital spaces and in digitally captured representations.",
-      "public_note": "Digital dignity means people should not be reduced to content, recordings, screenshots, or manipulated images without regard for their humanity."
+      "public_note": "Digital dignity means people should not be reduced to content, recordings, screenshots, or manipulated images without regard for their humanity.",
+      "status": "published"
     },
     {
       "label": "Regulation of Recording",
       "type": "Solution",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Rules, norms, or laws that define when recording is acceptable, when consent is required, and how misuse should be handled.",
-      "public_note": "As recording becomes easier, society may need clearer rules and norms around consent, sharing, and misuse."
+      "public_note": "As recording becomes easier, society may need clearer rules and norms around consent, sharing, and misuse.",
+      "status": "published"
     },
     {
       "label": "AI, Synthetic Media, and Trust Collapse",
       "type": "Theme",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "As AI-generated images and videos become more realistic, people may lose confidence in whether any photo or video is real. This creates both harm and deniability: fake media can damage people, while real media can be dismissed as fake.",
-      "public_note": "The discussion about privacy also raised a deeper issue around AI. If AI-generated photos and videos become impossible to distinguish from real ones, people may stop trusting visual evidence altogether. This could protect some people from privacy harms because they can dismiss invasive content as fake, but it can also create new risks: reputational damage, emotional distress, manipulation, and reduced accountability."
+      "description": "As AI-generated images and videos become more realistic, people may lose confidence in whether any photo or video is real.",
+      "public_note": "AI-generated media creates both harm and deniability: fake media can damage people, while real media can be dismissed as fake.",
+      "status": "published"
     },
     {
       "label": "Deepfakes",
       "type": "Cause",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "AI-generated or manipulated media that imitates real people, places, events, or evidence.",
-      "public_note": "Deepfakes make it easier to create convincing false media, which can damage trust, reputation, and accountability."
+      "public_note": "Deepfakes make it easier to create convincing false media, which can damage trust, reputation, and accountability.",
+      "status": "published"
     },
     {
       "label": "Synthetic Media",
       "type": "Concept",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Images, videos, audio, or other media created or significantly altered by AI.",
-      "public_note": "Synthetic media changes how people relate to evidence because realistic content can now be generated without being real."
+      "public_note": "Synthetic media changes how people relate to evidence because realistic content can now be generated without being real.",
+      "status": "published"
     },
     {
       "label": "Reputation Harm",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "Damage to a person’s dignity, relationships, mental wellbeing, or social standing because of real, fake, or manipulated media.",
-      "public_note": "Even if an image or video is fake, it can still affect how people think, feel, and behave. Synthetic media can damage reputations before the truth is clear. In many cases, the emotional and social impact may happen before people verify whether the content is real."
+      "description": "Damage to a person's dignity, relationships, mental wellbeing, or social standing because of real, fake, or manipulated media.",
+      "public_note": "Even if an image or video is fake, it can still affect how people think, feel, and behave.",
+      "status": "published"
     },
     {
       "label": "Mental Distress",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Emotional or psychological harm caused by exposure, privacy invasion, reputation damage, harassment, or digital manipulation.",
-      "public_note": "Privacy violations and manipulated media can create real distress even when the content is later questioned or disproven."
+      "public_note": "Privacy violations and manipulated media can create real distress even when the content is later questioned or disproven.",
+      "status": "published"
     },
     {
       "label": "Erosion of Trust",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "A decline in people’s trust in media, evidence, institutions, other people, or shared reality.",
-      "public_note": "When people can no longer trust images, videos, or digital evidence, trust in public information and social claims may weaken."
+      "description": "A decline in people's trust in media, evidence, institutions, other people, or shared reality.",
+      "public_note": "When people can no longer trust images, videos, or digital evidence, trust in public information and social claims may weaken.",
+      "status": "published"
     },
     {
       "label": "Plausible Deniability",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "The ability to dismiss real images or videos as fake because AI manipulation is now widely possible.",
-      "public_note": "One interesting tension is that AI may create plausible deniability. If fake images and videos become common, people may be able to dismiss invasive or embarrassing content as AI-generated. This may reduce some privacy harm, but it could also weaken accountability when real evidence is denied."
-    },
-    {
-      "label": "Media Literacy",
-      "type": "Skill",
-      "cluster": "Digital Society, Privacy, and Trust",
-      "description": "The ability to critically assess media, digital claims, images, videos, and AI-generated content.",
-      "public_note": "Media literacy is becoming essential. People need the ability to question what they see, understand how content can be manipulated, and avoid reacting too quickly to digital material. Better media literacy may reduce panic, manipulation, and reputational harm."
+      "public_note": "AI may create plausible deniability. This may reduce some privacy harm, but it could also weaken accountability when real evidence is denied.",
+      "status": "published"
     },
     {
       "label": "Evidence Uncertainty",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Reduced confidence in whether photos, videos, recordings, or digital evidence are authentic.",
-      "public_note": "As AI-generated media improves, people may become less certain about what is real. This could weaken trust in photos and videos, even when they are genuine. The result may be a broader crisis of evidence, where both truth and falsehood become easier to dispute."
+      "public_note": "As AI-generated media improves, people may become less certain about what is real, creating a broader crisis of evidence.",
+      "status": "published"
+    },
+    {
+      "label": "Media Literacy",
+      "type": "Skill",
+      "cluster": "Digital Society, Privacy, and Trust",
+      "description": "The ability to critically assess media, digital claims, images, videos, and AI-generated content.",
+      "public_note": "Media literacy helps people question what they see, understand manipulation, and avoid reacting too quickly to digital material.",
+      "status": "published"
     },
     {
       "label": "Public Understanding of AI",
       "type": "Gap",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "AI tools are advancing faster than public understanding. People may not yet have the knowledge needed to understand what AI can do, how synthetic media works, or how to judge whether digital content is trustworthy.",
-      "public_note": "AI capability is moving quickly, but public understanding may not be keeping up. This creates a gap between what technology can do and what people are prepared to understand. Until people become more digitally and media literate, AI-generated content may continue to cause confusion, fear, manipulation, or misplaced trust."
+      "description": "AI tools are advancing faster than public understanding.",
+      "public_note": "AI capability is moving quickly, but public understanding may not be keeping up.",
+      "status": "published"
     },
     {
       "label": "AI Capability",
       "type": "Cause",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "The increasing ability of AI systems to generate, edit, imitate, and manipulate text, images, audio, and video.",
-      "public_note": "AI capability is advancing quickly and changing how people understand evidence, privacy, work, and trust."
+      "public_note": "AI capability is advancing quickly and changing how people understand evidence, privacy, work, and trust.",
+      "status": "published"
     },
     {
       "label": "Accountability Problems",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
       "description": "Difficulty holding people accountable when evidence can be denied, manipulated, disputed, or dismissed as fake.",
-      "public_note": "If real evidence can be dismissed as AI-generated, accountability may become harder in social, legal, and institutional settings."
+      "public_note": "If real evidence can be dismissed as AI-generated, accountability may become harder in social, legal, and institutional settings.",
+      "status": "published"
     },
     {
       "label": "Privacy Harm",
       "type": "Consequence",
       "cluster": "Digital Society, Privacy, and Trust",
-      "description": "The harm caused when a person’s privacy, image, information, or dignity is violated.",
-      "public_note": "Privacy harm can come from recording, sharing, manipulating, or exposing people without consent."
+      "description": "The harm caused when a person's privacy, image, information, or dignity is violated.",
+      "public_note": "Privacy harm can come from recording, sharing, manipulating, or exposing people without consent.",
+      "status": "published"
     }
   ],
   "connections": [
-    {
-      "from": "Rights Without Responsibilities",
-      "to": "Self-Centred Behaviour",
-      "type": "contributes to",
-      "description": "Rights awareness without responsibility can encourage self-focused behaviour."
-    },
-    {
-      "from": "Rights Without Responsibilities",
-      "to": "Civic Responsibility",
-      "type": "weakens",
-      "description": "When rights are separated from responsibility, civic responsibility may weaken."
-    },
-    {
-      "from": "Self-Centred Behaviour",
-      "to": "Social Trust",
-      "type": "weakens",
-      "description": "Excessive self-interest can reduce trust between people."
-    },
-    {
-      "from": "Civic Responsibility",
-      "to": "Social Trust",
-      "type": "supports",
-      "description": "Shared responsibility strengthens trust and cooperation."
-    },
-    {
-      "from": "Civic Responsibility",
-      "to": "Community Discipline",
-      "type": "supports",
-      "description": "A sense of responsibility supports discipline in shared spaces."
-    },
-    {
-      "from": "Individualism",
-      "to": "Self-Centred Behaviour",
-      "type": "can contribute to",
-      "description": "Individualism can become self-centred when it is not balanced by responsibility."
-    },
-    {
-      "from": "Public Behaviour",
-      "to": "Social Trust",
-      "type": "affects",
-      "description": "Everyday public behaviour influences whether people trust one another."
-    },
-    {
-      "from": "Lack of Future-Ready Skills",
-      "to": "Employment Insecurity",
-      "type": "contributes to",
-      "description": "People without adaptable skills may struggle in changing labour markets."
-    },
-    {
-      "from": "Education System",
-      "to": "Lack of Future-Ready Skills",
-      "type": "may contribute to",
-      "description": "An outdated education system may fail to develop future-ready skills."
-    },
-    {
-      "from": "Digital Literacy",
-      "to": "Lack of Future-Ready Skills",
-      "type": "reduces",
-      "description": "Digital literacy helps people adapt to future changes."
-    },
-    {
-      "from": "AI Readiness",
-      "to": "Lack of Future-Ready Skills",
-      "type": "reduces",
-      "description": "AI readiness helps people respond to technological change."
-    },
-    {
-      "from": "Adaptability",
-      "to": "Lack of Future-Ready Skills",
-      "type": "reduces",
-      "description": "Adaptability helps people respond to changing conditions."
-    },
-    {
-      "from": "Reskilling",
-      "to": "Employment Insecurity",
-      "type": "may reduce",
-      "description": "Reskilling can improve employability in changing markets."
-    },
-    {
-      "from": "Lifelong Learning",
-      "to": "Adaptability",
-      "type": "supports",
-      "description": "Continuous learning strengthens adaptability."
-    },
-    {
-      "from": "Youth Preparedness",
-      "to": "Lack of Future-Ready Skills",
-      "type": "reduces",
-      "description": "Better youth preparedness reduces future skill gaps."
-    },
-    {
-      "from": "AI Capability",
-      "to": "Reskilling",
-      "type": "increases urgency of",
-      "description": "AI and automation increase the need for reskilling."
-    },
-    {
-      "from": "Smartphone Recording",
-      "to": "Loss of Privacy in a Camera-Saturated Society",
-      "type": "contributes to",
-      "description": "Smartphones make recording easy and widespread."
-    },
-    {
-      "from": "Consent",
-      "to": "Loss of Privacy in a Camera-Saturated Society",
-      "type": "protects against",
-      "description": "Stronger consent norms can reduce privacy violations."
-    },
-    {
-      "from": "Loss of Privacy in a Camera-Saturated Society",
-      "to": "Surveillance Anxiety",
-      "type": "contributes to",
-      "description": "People may feel watched or exposed in daily life."
-    },
-    {
-      "from": "Loss of Privacy in a Camera-Saturated Society",
-      "to": "Public Privacy",
-      "type": "weakens",
-      "description": "Widespread recording weakens privacy in public and semi-public spaces."
-    },
-    {
-      "from": "Image Misuse",
-      "to": "Reputation Harm",
-      "type": "can cause",
-      "description": "Misuse of images can damage reputation and dignity."
-    },
-    {
-      "from": "Loss of Privacy in a Camera-Saturated Society",
-      "to": "Digital Dignity",
-      "type": "threatens",
-      "description": "Recording and sharing without consent can undermine digital dignity."
-    },
-    {
-      "from": "Regulation of Recording",
-      "to": "Loss of Privacy in a Camera-Saturated Society",
-      "type": "may reduce",
-      "description": "Clear rules and norms may reduce privacy violations."
-    },
-    {
-      "from": "Deepfakes",
-      "to": "AI, Synthetic Media, and Trust Collapse",
-      "type": "contributes to",
-      "description": "Deepfakes make realistic synthetic media more common."
-    },
-    {
-      "from": "Synthetic Media",
-      "to": "Evidence Uncertainty",
-      "type": "contributes to",
-      "description": "Synthetic media makes it harder to know what is real."
-    },
-    {
-      "from": "AI, Synthetic Media, and Trust Collapse",
-      "to": "Evidence Uncertainty",
-      "type": "contributes to",
-      "description": "People may become unsure whether visual media is real."
-    },
-    {
-      "from": "Evidence Uncertainty",
-      "to": "Erosion of Trust",
-      "type": "contributes to",
-      "description": "If evidence is doubted, trust in media and testimony declines."
-    },
-    {
-      "from": "AI, Synthetic Media, and Trust Collapse",
-      "to": "Plausible Deniability",
-      "type": "creates",
-      "description": "Real media may be dismissed as fake because AI exists."
-    },
-    {
-      "from": "Plausible Deniability",
-      "to": "Accountability Problems",
-      "type": "may worsen",
-      "description": "People may deny real evidence by claiming it is AI-generated."
-    },
-    {
-      "from": "Plausible Deniability",
-      "to": "Privacy Harm",
-      "type": "may reduce",
-      "description": "Some people may feel less harmed if invasive media can be dismissed as fake."
-    },
-    {
-      "from": "Deepfakes",
-      "to": "Reputation Harm",
-      "type": "can cause",
-      "description": "Manipulated media can damage a person’s reputation even if fake."
-    },
-    {
-      "from": "Reputation Harm",
-      "to": "Mental Distress",
-      "type": "can cause",
-      "description": "Reputation damage can create emotional and psychological distress."
-    },
-    {
-      "from": "Media Literacy",
-      "to": "AI, Synthetic Media, and Trust Collapse",
-      "type": "mitigates",
-      "description": "Better understanding can reduce panic and improve judgment."
-    },
-    {
-      "from": "AI Capability",
-      "to": "Public Understanding of AI",
-      "type": "outpaces",
-      "description": "AI tools are advancing faster than public understanding."
-    },
-    {
-      "from": "Lack of Future-Ready Skills",
-      "to": "Public Understanding of AI",
-      "type": "contributes to",
-      "description": "Weak future skills can limit society’s ability to understand AI risks."
-    },
-    {
-      "from": "Digital Literacy",
-      "to": "Public Understanding of AI",
-      "type": "supports",
-      "description": "Digital literacy helps people better understand AI and synthetic media."
-    },
-    {
-      "from": "Media Literacy",
-      "to": "Evidence Uncertainty",
-      "type": "mitigates",
-      "description": "Media literacy helps people assess whether digital evidence is trustworthy."
-    },
-    {
-      "from": "Rights Without Responsibilities",
-      "to": "Loss of Privacy in a Camera-Saturated Society",
-      "type": "worsens",
-      "description": "People may record others without considering social responsibility or consent."
-    },
-    {
-      "from": "Consent",
-      "to": "Digital Dignity",
-      "type": "supports",
-      "description": "Respecting consent helps protect digital dignity."
-    },
-    {
-      "from": "Smartphone Recording",
-      "to": "Image Misuse",
-      "type": "enables",
-      "description": "Easy recording increases the possibility of unwanted sharing or misuse."
-    },
-    {
-      "from": "AI Capability",
-      "to": "Deepfakes",
-      "type": "enables",
-      "description": "Advanced AI tools make deepfakes easier to create."
-    },
-    {
-      "from": "AI Capability",
-      "to": "Synthetic Media",
-      "type": "enables",
-      "description": "AI capability enables the creation of synthetic media."
-    }
+    {"from": "Rights Without Responsibilities", "to": "Self-Centred Behaviour", "type": "contributes to", "description": "Rights awareness without responsibility can encourage self-focused behaviour.", "status": "published"},
+    {"from": "Rights Without Responsibilities", "to": "Civic Responsibility", "type": "weakens", "description": "When rights are separated from responsibility, civic responsibility may weaken.", "status": "published"},
+    {"from": "Self-Centred Behaviour", "to": "Social Trust", "type": "weakens", "description": "Excessive self-interest can reduce trust between people.", "status": "published"},
+    {"from": "Civic Responsibility", "to": "Social Trust", "type": "supports", "description": "Shared responsibility strengthens trust and cooperation.", "status": "published"},
+    {"from": "Civic Responsibility", "to": "Community Discipline", "type": "supports", "description": "A sense of responsibility supports discipline in shared spaces.", "status": "published"},
+    {"from": "Individualism", "to": "Self-Centred Behaviour", "type": "can contribute to", "description": "Individualism can become self-centred when it is not balanced by responsibility.", "status": "published"},
+    {"from": "Public Behaviour", "to": "Social Trust", "type": "affects", "description": "Everyday public behaviour influences whether people trust one another.", "status": "published"},
+    {"from": "Lack of Future-Ready Skills", "to": "Employment Insecurity", "type": "contributes to", "description": "People without adaptable skills may struggle in changing labour markets.", "status": "published"},
+    {"from": "Education System", "to": "Lack of Future-Ready Skills", "type": "may contribute to", "description": "An outdated education system may fail to develop future-ready skills.", "status": "published"},
+    {"from": "Digital Literacy", "to": "Lack of Future-Ready Skills", "type": "reduces", "description": "Digital literacy helps people adapt to future changes.", "status": "published"},
+    {"from": "AI Readiness", "to": "Lack of Future-Ready Skills", "type": "reduces", "description": "AI readiness helps people respond to technological change.", "status": "published"},
+    {"from": "Adaptability", "to": "Lack of Future-Ready Skills", "type": "reduces", "description": "Adaptability helps people respond to changing conditions.", "status": "published"},
+    {"from": "Reskilling", "to": "Employment Insecurity", "type": "may reduce", "description": "Reskilling can improve employability in changing markets.", "status": "published"},
+    {"from": "Lifelong Learning", "to": "Adaptability", "type": "supports", "description": "Continuous learning strengthens adaptability.", "status": "published"},
+    {"from": "Youth Preparedness", "to": "Lack of Future-Ready Skills", "type": "reduces", "description": "Better youth preparedness reduces future skill gaps.", "status": "published"},
+    {"from": "AI Capability", "to": "Reskilling", "type": "increases urgency of", "description": "AI and automation increase the need for reskilling.", "status": "published"},
+    {"from": "Finances", "to": "Financial Pressure", "type": "indicates", "description": "The brief response points to finances as a problem area requiring further exploration.", "weight": 1, "status": "published"},
+    {"from": "Financial Pressure", "to": "Cost of Living", "type": "may include", "description": "Financial pressure may be driven by everyday expenses becoming harder to afford.", "weight": 1, "status": "published"},
+    {"from": "Financial Pressure", "to": "Debt Stress", "type": "can contribute to", "description": "Financial pressure can lead to stress around borrowing, repayments, or unpaid obligations.", "weight": 1, "status": "published"},
+    {"from": "Employment Insecurity", "to": "Financial Pressure", "type": "can worsen", "description": "Uncertainty around income and employability can worsen financial pressure.", "status": "published"},
+    {"from": "Smartphone Recording", "to": "Loss of Privacy in a Camera-Saturated Society", "type": "contributes to", "description": "Smartphones make recording easy and widespread.", "status": "published"},
+    {"from": "Consent", "to": "Loss of Privacy in a Camera-Saturated Society", "type": "protects against", "description": "Stronger consent norms can reduce privacy violations.", "status": "published"},
+    {"from": "Loss of Privacy in a Camera-Saturated Society", "to": "Surveillance Anxiety", "type": "contributes to", "description": "People may feel watched or exposed in daily life.", "status": "published"},
+    {"from": "Loss of Privacy in a Camera-Saturated Society", "to": "Public Privacy", "type": "weakens", "description": "Widespread recording weakens privacy in public and semi-public spaces.", "status": "published"},
+    {"from": "Image Misuse", "to": "Reputation Harm", "type": "can cause", "description": "Misuse of images can damage reputation and dignity.", "status": "published"},
+    {"from": "Loss of Privacy in a Camera-Saturated Society", "to": "Digital Dignity", "type": "threatens", "description": "Recording and sharing without consent can undermine digital dignity.", "status": "published"},
+    {"from": "Regulation of Recording", "to": "Loss of Privacy in a Camera-Saturated Society", "type": "may reduce", "description": "Clear rules and norms may reduce privacy violations.", "status": "published"},
+    {"from": "Deepfakes", "to": "AI, Synthetic Media, and Trust Collapse", "type": "contributes to", "description": "Deepfakes make realistic synthetic media more common.", "status": "published"},
+    {"from": "Synthetic Media", "to": "Evidence Uncertainty", "type": "contributes to", "description": "Synthetic media makes it harder to know what is real.", "status": "published"},
+    {"from": "AI, Synthetic Media, and Trust Collapse", "to": "Evidence Uncertainty", "type": "contributes to", "description": "People may become unsure whether visual media is real.", "status": "published"},
+    {"from": "Evidence Uncertainty", "to": "Erosion of Trust", "type": "contributes to", "description": "If evidence is doubted, trust in media and testimony declines.", "status": "published"},
+    {"from": "AI, Synthetic Media, and Trust Collapse", "to": "Plausible Deniability", "type": "creates", "description": "Real media may be dismissed as fake because AI exists.", "status": "published"},
+    {"from": "Plausible Deniability", "to": "Accountability Problems", "type": "may worsen", "description": "People may deny real evidence by claiming it is AI-generated.", "status": "published"},
+    {"from": "Plausible Deniability", "to": "Privacy Harm", "type": "may reduce", "description": "Some people may feel less harmed if invasive media can be dismissed as fake.", "status": "published"},
+    {"from": "Deepfakes", "to": "Reputation Harm", "type": "can cause", "description": "Manipulated media can damage a person's reputation even if fake.", "status": "published"},
+    {"from": "Reputation Harm", "to": "Mental Distress", "type": "can cause", "description": "Reputation damage can create emotional and psychological distress.", "status": "published"},
+    {"from": "Media Literacy", "to": "AI, Synthetic Media, and Trust Collapse", "type": "mitigates", "description": "Better understanding can reduce panic and improve judgment.", "status": "published"},
+    {"from": "AI Capability", "to": "Public Understanding of AI", "type": "outpaces", "description": "AI tools are advancing faster than public understanding.", "status": "published"},
+    {"from": "Lack of Future-Ready Skills", "to": "Public Understanding of AI", "type": "contributes to", "description": "Weak future skills can limit society's ability to understand AI risks.", "status": "published"},
+    {"from": "Digital Literacy", "to": "Public Understanding of AI", "type": "supports", "description": "Digital literacy helps people better understand AI and synthetic media.", "status": "published"},
+    {"from": "Media Literacy", "to": "Evidence Uncertainty", "type": "mitigates", "description": "Media literacy helps people assess whether digital evidence is trustworthy.", "status": "published"},
+    {"from": "Rights Without Responsibilities", "to": "Loss of Privacy in a Camera-Saturated Society", "type": "worsens", "description": "People may record others without considering social responsibility or consent.", "status": "published"},
+    {"from": "Consent", "to": "Digital Dignity", "type": "supports", "description": "Respecting consent helps protect digital dignity.", "status": "published"},
+    {"from": "Smartphone Recording", "to": "Image Misuse", "type": "enables", "description": "Easy recording increases the possibility of unwanted sharing or misuse.", "status": "published"},
+    {"from": "AI Capability", "to": "Deepfakes", "type": "enables", "description": "Advanced AI tools make deepfakes easier to create.", "status": "published"},
+    {"from": "AI Capability", "to": "Synthetic Media", "type": "enables", "description": "AI capability enables the creation of synthetic media.", "status": "published"}
   ]
 }
